@@ -1,0 +1,13 @@
+.env
+
+results/*
+!results/.gitkeep
+
+models/*
+!models/.gitkeep
+
+data/*
+!data/.gitkeep
+
+tmp/*
+!tmp/.gitkeep
