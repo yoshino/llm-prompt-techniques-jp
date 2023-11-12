@@ -9,3 +9,35 @@
 - 弱いLLMは、強いLLMによって言い換えられた質問からより多くの利益を得ることができます。
 - すべてのモデルは質問を言い換えることから利益を得ることができ、より進んだモデルほど大きな改善が期待されます。
 - GPT-4は、初回の試みでうまくいかなくても、複数回の言い換えによって概念を明確にする可能性があります。
+
+
+## Prompt
+### one step RaR
+質問を言い換えて、それに回答するように指示します。
+
+```
+{question}
+
+Rephrase and expand the question, and respond
+```
+
+### two step RaR
+
+
+```
+{original question}
+
+Given the above question, rephrase and expand it to help
+you do better answering. Maintain all information in the
+original question.
+```
+
+上記の質問結果から`reshaped question`を取得します。
+`original question`と`reshaped question`から新しいプロンプトを作成します。
+
+```
+(original) {original question}
+(rephrased) {reshaped question}
+Use your answer for the rephrased question to answer the
+original question.
+```
