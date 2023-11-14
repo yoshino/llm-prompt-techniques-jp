@@ -1,0 +1,431 @@
+query: What year is considered Albert Einstein's annus mirabilis?
+
+source: philsci-archive.pitt.edu
+date: None
+title: The Turning Point for Einstein's Annus Mirabilis
+snippet: The year 1905 has been called Einstein's annus mirabilis in virtue of three ground-breaking works completed over the span of a few months — the light.
+highlight: 1905
+
+source: cantorsparadise.com
+date: None
+title: Einstein's Miraculous Year: A Summary of the 1905 Annus ...
+snippet: These are the four papers that Albert Einstein published in 1905, which are considered to be the foundation of modern physics.
+highlight: 1905
+
+source: quora.com
+date: None
+title: Why is 1905 Einstein's miracle year?
+snippet: Thus, 1905 is called Einstein's annus mirabilis, or miracle year, and these papers are called his annus mirabilis papers .
+highlight: 1905
+
+source: en.wikipedia.org
+date: None
+title: Annus mirabilis papers
+snippet: The annus mirabilis papers are the four papers that Albert Einstein published in Annalen der Physik (Annals of Physics), a scientific journal, in 1905.
+highlight: 1905
+
+source: americanscientist.org
+date: None
+title: Which year is known as annus mirabilis year?
+snippet: The Cambridge Dictionary defines annus mirabilis as “a year of extremely good events.” When otherwise unqualified, the term is usually understood to refer to “the miraculous year” of 1666, during which the Great Plague continued and the Great Fire of London raged for four days.
+highlight: None
+
+source: en.wikipedia.org
+date: None
+title: When was the annus mirabilis of Albert Einstein?
+snippet: Because Einstein published these remarkable papers in a single year, 1905 is called his annus mirabilis (miracle year in English or Wunderjahr in German). , and was the only specific discovery mentioned in the citation awarding Einstein the Nobel Prize in Physics.
+highlight: None
+
+source: iopscience.iop.org
+date: None
+title: 1905
+snippet: Abstract. It is no exaggeration to say that almost every physicist knows about Albert Einstein's annus mirabilis 1905.
+highlight: 1905
+
+source: npr.org
+date: Mar 17, 2005
+title: Albert Einstein's Year of Miracles: Light Theory
+snippet: Scientists call 1905 Albert Einstein's annus mirabilis — his year of miracles. ... considered here [the March paper]" that represented a sharp ...
+highlight: 1905
+
+source: npr.org
+date: Mar 17, 2005
+title: What year is Einstein's biggest year?
+snippet: Web Resources. Scientists call 1905 Albert Einstein's annus mirabilis — his year of miracles. Within a few months, Einstein wrote a series of papers that would transform the way we see the universe.
+highlight: None
+
+source: scihi.org
+date: Jun 30, 2018
+title: The Annus Mirabilis in Physics – Albert Einstein and the Year ...
+snippet: 1905 was this Annus Mirabilis, this year of wonders or extraordinary year. History considers 1905 as the year with the most outstanding and ...
+highlight: 1905
+
+source: guides.loc.gov
+date: Nov 06, 2019
+title: Introduction - Annus Mirabilis of Albert Einstein
+snippet: He published hundreds of scientific papers during the course of his life, but in 1905, the year he turned 26, he published the four ...
+highlight: 1905
+
+source: guides.loc.gov
+date: Nov 04, 2023
+title: The 1905 Papers - Annus Mirabilis of Albert Einstein
+snippet: English translations of the four papers, from The Collected Papers of Albert Einstein, vol. 2: The Swiss Years: Writings 1900-1909, Princeton ...
+highlight: Albert
+
+question: What year is considered Albert Einstein's annus mirabilis?
+answer: As of today November 14, 2023, the most up-to-date and relevant information regarding this query is as follows. 1905 is considered Albert Einstein's annus mirabilis, his miraculous year.
+
+
+query: Which photographer took the most expensive photograph in the world?
+
+source: phototraces.com
+date: None
+title: Top 10 Most Expensive Photographs Ever Sold
+snippet: 10 Most Expensive Photographs Ever Sold · #1 Peter Lik, Phantom – (?) · #2 Andreas Gursky, Rhein II $4,338,500 · #3 Richard Prince, Spiritual America $3,973,000 · # ...
+highlight: Peter Lik, Phantom
+
+source: expertphotography.com
+date: None
+title: The 10 Most Expensive Photographs Ever Sold (by 2023)
+snippet: These are most expensive photographs ever sold, for millions at auction. You can decide for yourself if these famous photographers work is worth the price!
+highlight: most expensive photographs ever | photographers
+
+source: academic-accelerator.com
+date: None
+title: This is some fact about the cell membrane.
+snippet: cell membrane
+highlight: None
+
+source: reddit.com
+date: None
+title: Who is The Most Expensive Wedding Photographer in the world? and what is their portfolio like?
+snippet: surely Jose Villa would cost a bomb.
+highlight: None
+
+source: quora.com
+date: None
+title: What is the most expensive photograph ever shot?
+snippet: Probably the photo of the Earth taken from the Moon. Each moon landing of the Apollo program averages out to $18 billion dollars out of the $109 billion dollar program (based in 2011 dollars). http://www.thespacereview.com/article/1579/1 Hard to imaging that any other photo can come close.
+highlight: None
+
+source: en.wikipedia.org
+date: None
+title: List
+snippet: 
+
+Rank,Artist,Date
+1,Man Ray,May 14, 2022
+2,Edward Steichen,Nov 10, 2022
+3,Andreas Gursky,November 8, 2011
+4,Atsuko Satō,June 11, 2021
+highlight: None
+
+source: pentaxforums.com
+date: Oct 23, 2012
+title: WHo took the world's most expensive photograph?
+snippet: WHo took the world's most expensive photograph? ... Gursky sells high resolution photographs of huge dimensions often taken from very high angles.
+highlight: Gursky
+
+source: quora.com
+date: Mar 12, 2015
+title: What is the most expensive photograph ever shot?
+snippet: Shot by Kevin Abosch, in 2010 was auctioned for a whopping 1 Million Euros in 2015.
+highlight: Kevin Abosch
+
+source: digitalphotographycourses.co.za
+date: Nov 21, 2018
+title: What photograph sold for 4.3 million?
+snippet: Andreas Gursky's, Rhein II was sold at Christie's, New York for a whopping 4.3 Million USD on November 8, 2011.
+highlight: None
+
+source: all-about-photo.com
+date: Dec 22, 2019
+title: Most expensive photographs ever sold | Photo Article
+snippet: The most expensive photo in history as of December 2014 is $6.5 million! The work of Australian landscape photographer Peter Lik, Phantom is a ...
+highlight: Australian landscape photographer Peter Lik, Phantom
+
+source: pocket-lint.com
+date: Jul 22, 2021
+title: The 24 most expensive photos that sold for millions
+snippet: Australian photographer Peter Lik claims to hold the record for the most expensive photograph ever sold: a staggering $6.5 million for his photo ...
+highlight: Australian photographer Peter Lik
+
+source: cnn.com
+date: May 15, 2022
+title: What is the world's most expensive photograph?
+snippet: Man Ray's 'Le Violon d'Ingres' photograph sells for record $12.4 million. Editor's Note: This story was updated with the final sale price and other details following the auction.
+highlight: None
+
+source: news.artnet.com
+date: May 16, 2022
+title: What is the most expensive print ever sold?
+snippet: Man Ray, Le Violon d'Ingres (1924). Courtesy of Christie's. This weekend, an iconic Man Ray print sold for $12.4 million at Christie's, nearly tripling the record for the most expensive photograph ever sold at auction.
+highlight: None
+
+source: barnebys.com
+date: May 14, 2023
+title: The 11 Most Expensive Photographers
+snippet: It became the world's most expensive photograph when it sold at Christie's in 2022 for $12.4 million. Find more features on Barnebys Magazine.
+highlight: Christie's
+
+source: artincontext.org
+date: Aug 10, 2023
+title: Most Expensive Photographs - 15 Extravagant Photographs
+snippet: Le Violon D'Ingre (1924) by Man Ray takes first place at an astonishing $12.4 million! Some of the other most expensive photos ever sold include ...
+highlight: Le Violon D'Ingre (1924) by Man Ray
+
+question: Which photographer took the most expensive photograph in the world?
+answer: As of today November 14, 2023, the most up-to-date and relevant information regarding this query is as follows. The most expensive photograph in the world is "Le Violon d'Ingres". The photograph was created by Man Ray.
+
+
+query: How many days are left until the 2023 Grammy Awards?
+
+source: en.wikipedia.org
+date: None
+title: 65th Annual Grammy Awards
+snippet: The 65th Annual Grammy Awards ceremony was held at the Crypto.com Arena in Los Angeles on February 5, 2023. It recognized the best recordings, compositions, ...
+highlight: Grammy Awards | in | 2023
+
+source: grammy.com
+date: None
+title: Everything You Need To Know About The 2023 GRAMMYs ...
+snippet: The eligibility period for the 65th GRAMMY Awards is Friday, Oct. 1, 2021 – Friday, Sept. 30, 2022. All eligible awards entries must be released within this ...
+highlight: for | GRAMMY Awards
+
+source: recordingacademy.com
+date: None
+title: 2023 GRAMMYs: Everything You Need To Know About ...
+snippet: There are only two days left to participate in first-round voting for the 2023 GRAMMYs; final-round voting will commence Dec. 14. If you're a Recording ...
+highlight: two days
+
+source: grammy.com
+date: None
+title: Air Date For 2023 GRAMMYs Announced
+snippet: This year's GRAMMY nominees will be announced on Tuesday, Nov. 15, with the 2023 GRAMMYs airing live Sunday, Feb. 5, from the Crypto.com Arena in Los Angeles.
+highlight: GRAMMY | 2023 GRAMMYs | in
+
+source: recordingacademy.com
+date: None
+title: How long until the next Grammy Awards?
+snippet: THE 66TH ANNUAL GRAMMY AWARDS® SET TO TAKE PLACE SUN, FEB. 4, 2024 | RECORDINGACADEMY.com.
+highlight: None
+
+source: grammy.com
+date: None
+title: What time is GRAMMYs 2023 over?
+snippet: The 2023 GRAMMYs will air live on Sunday, Feb. 5, at 8-11:30 p.m. ET/5-8:30 p.m. PT from the Crypto.com Arena in Los Angeles.
+highlight: None
+
+source: variety.com
+date: Jul 14, 2022
+title: Grammy Awards Announce Key Dates for 2023 Race
+snippet: Nominees will be announced this year on Nov. 15, with the first round of voting set from Oct. 13 to Oct. 23 and a final round on Dec. 14 to Jan.
+highlight: None
+
+source: billboard.com
+date: Jul 14, 2022
+title: Here's the Date & Location of the 2023 Grammy Awards
+snippet: Nominations will be announced on Tuesday, Nov. 15 -- eight days earlier than they were last year.
+highlight: eight days
+
+source: en.as.com
+date: Feb 01, 2023
+title: 2023 Grammy Awards: Who's attending, skipping, and ...
+snippet: With only a few days left until the 65th annual Grammy Awards, and the full performer lineup yet to be announced, here is how the show is ...
+highlight: only a few days
+
+source: howmanydaysuntil.center
+date: Feb 04, 2023
+title: When ar The Grammy Awards - How Many Days Until
+snippet: The Grammy Awards will be celebrated this year on is on February 4th. Find out more about The Grammy Awards.
+highlight: February 4th
+
+source: cnn.com
+date: Feb 05, 2023
+title: How to watch the Grammys: Time, channels and more
+snippet: How to watch the 2023 Grammy Awards: Time, channels and more · Day and time. The Grammy Awards air Sunday, February 5, at 8 p.m. ET/5 p.m. PT.
+highlight: 2023 Grammy Awards | Day | Grammy Awards
+
+source: nytimes.com
+date: Feb 06, 2023
+title: How to Watch the 2023 Grammys
+snippet: The ceremony will air live on Sunday, at 8 p.m. Eastern time (5 p.m. Pacific time) on CBS and stream live on Paramount+. Before the prime-time ...
+highlight: Before the
+
+source: billboard.com
+date: Nov 10, 2023
+title: What is the deadline for Grammy nominations 2023?
+snippet: This year's eligibility period ran from Oct. 1, 2022, through Sept. 15, 2023. The final round of Grammy voting, which will determine the winners, will take place Dec. 14 through Jan. 4, 2024.
+highlight: None
+
+question: How many days are left until the 2023 Grammy Awards?
+answer: As of today November 14, 2023, the most up-to-date and relevant information regarding this query is as follows. The 2023 Grammy Awards ceremony was held on February 5, 2023. Thus, the ceremony has already taken place.
+
+
+query: How many years ago did the Boxing Day Tsunami happen?
+
+source: knowledge.aidr.org.au
+date: None
+title: The Boxing Day Tsunami in numbers Stats and facts
+snippet: The Tangshan Earthquake in China killed at least 255,000 in 1976. Flooding in Bangladesh in 2004 destroyed over 1 million homes, displaced over 4 million ...
+	2 pages
+highlight: Earthquake | 2004
+
+source: knowledge.aidr.org.au
+date: None
+title: Indian Ocean tsunami, 2004 | Australian Disasters
+snippet: In December 2004, a massive earthquake struck off the west coast of Sumatra. The resulting Indian Ocean tsunami caused widespread destruction. Learn more.
+highlight: December 2004
+
+source: britannica.com
+date: None
+title: Indian Ocean tsunami of 2004 | Facts & Death Toll
+snippet: Indian Ocean tsunami of 2004, deadly tsunami that hit the coasts of several countries of South and Southeast Asia and caused immense destruction.
+highlight: 2004
+
+source: britannica.com
+date: None
+title: How long did the 2004 tsunami last?
+snippet: How long did the Indian Ocean tsunami of 2004 last? The Indian Ocean tsunami of 2004 lasted for seven hours and reached out across the Indian Ocean, devastating coastal areas of Indonesia, Sri Lanka, India, Maldives, and Thailand, and as far away as East Africa.
+highlight: None
+
+source: en.wikipedia.org
+date: None
+title: 2004 Indian Ocean earthquake and tsunami - Wikipedia
+snippet: On 26 December 2004, at 07:58:53 local time (UTC+7), a major earthquake with a magnitude of 9.1–9.3 Mw struck with an epicentre off the west coast of northern Sumatra, Indonesia.
+highlight: None
+
+source: history.com
+date: Oct 02, 2018
+title: The 2004 Tsunami Wiped Away Towns With 'Mind- ...
+snippet: The Boxing Day tsunami would be the deadliest in recorded history, taking a staggering 230,000 lives in a matter of hours. The city of Banda ...
+highlight: 230,000
+
+source: reuters.com
+date: Dec 18, 2019
+title: 15 years on, a look back at the Boxing Day tsunami
+snippet: December 26 marks 15 years since a 9.1 magnitude quake off the coast of Indonesia's Aceh province triggered a tsunami that killed more than ...
+highlight: 15 years
+
+source: preventionweb.net
+date: Jun 26, 2021
+title: Indian Ocean tsunami: What was learned about recovery
+snippet: We've been following victims of the Boxing Day tsunami for 16 years – this is what we've learned about recovering from disaster. Source(s): ...
+highlight: 16 years
+
+source: materchristi.libguides.com
+date: May 11, 2023
+title: 2004 Indian Ocean Tsunami - Natural disasters of the Asia ...
+snippet: The Boxing Day tsunami in 2004 is believed to be the deadliest tsunami in history, killing more than 230,000 people across 14 countries.
+highlight: 2004
+
+source: noaa.gov
+date: Jun 12, 2023
+title: JetStream Max: 2004 Indian Ocean Tsunami
+snippet: On December 26, 2004, an extremely powerful earthquake off the coast of the Indonesian island of Sumatra in the Indian Ocean generated a ...
+highlight: December 26, 2004
+
+source: noaa.gov
+date: Jun 12, 2023
+title: When did the Boxing Day tsunami occur?
+snippet: On December 26, 2004, an extremely powerful earthquake off the coast of the Indonesian island of Sumatra in the Indian Ocean generated a devastating tsunami.
+highlight: None
+
+source: worldvision.org
+date: Sep 25, 2023
+title: 2004 Indian Ocean Earthquake and Tsunami
+snippet: Discover the 2004 Indian Ocean tsunami's historic impact and World Vision's multi-country humanitarian efforts that lasted over a decade.
+highlight: 2004
+
+source: worldvision.org
+date: Sep 25, 2023
+title: What was the worst tsunami in 2004?
+snippet: Approximately 230,000 people died in the 2004 Indian Ocean earthquake and tsunami, making it one of the deadliest disasters in modern history. The Sumatra-Andaman earthquake, which caused the tsunami, is estimated to have released energy equivalent to 23,000 Hiroshima-type atomic bombs.
+highlight: None
+
+question: How many years ago did the Boxing Day Tsunami happen?
+answer: As of today November 14, 2023, the most up-to-date and relevant information regarding this query is as follows. The disaster occurred on December 26, 2004. Thus, it happened 18 years ago.
+
+
+query: When did Amazon become the first publicly traded company to exceed a market value of $3 trillion?
+
+source: en.wikipedia.org
+date: None
+title: List of public corporations by market capitalization
+snippet: The table below lists all companies which have, at any point, had a market capitalization in excess of $1 trillion, the date on which their market cap first ...
+highlight: companies | market capitalization | excess | trillion | market cap first
+
+source: cbsnews.com
+date: Sep 04, 2018
+title: Amazon becomes second trillion-dollar company in US
+snippet: Amazon hits $1 trillion and becomes the second U.S. company worth one trillion dollars after stock price surged Tuesday - CBS News.
+highlight: after stock price surged Tuesday
+
+source: cnbc.com
+date: Jan 03, 2022
+title: Apple becomes first U.S. company to reach $3 trillion ...
+snippet: Apple became the first publicly traded U.S. company to hit a $1 trillion market cap during intraday trading on Aug. 2, 2018. It hit a $2 ...
+highlight: Aug. 2, 2018
+
+source: fortune.com
+date: Nov 02, 2022
+title: As Amazon's value drops below $1 trillion, this chart shows ...
+snippet: On November 1, Amazon reached a bleak milestone when its value dropped below $1 trillion for the first time since first crossing that ...
+highlight: On November 1
+
+source: financialpost.com
+date: Nov 09, 2022
+title: Amazon becomes first public company to lose $1 trillion ...
+snippet: Amazon.com Inc. is the world's first public company to lose a trillion dollars in market value as a combination of rising inflation ...
+highlight: Amazon | is the | first public company | trillion | market value
+
+source: bloomberg.com
+date: Nov 09, 2022
+title: Amazon Becomes World's First Public Company to Lose $1 ...
+snippet: Amazon.com Inc. is the world's first public company to lose a trillion dollars in market value as a combination of rising inflation, ...
+highlight: Amazon | is the | first public company | trillion | market value
+
+source: fortune.com
+date: Jun 30, 2023
+title: Apple becomes first $3 trillion market value company
+snippet: Apple first became the world's most valuable stock in 2011, when its market cap was under $340 billion and it comprised about 3.3% of the S&P ...
+highlight: 2011
+
+source: qz.com
+date: Jun 30, 2023
+title: Apple is officially the world's first-ever $3 trillion company
+snippet: Apple became the first company in the world with a $3 trillion valuation on Friday (June 30). The company's stock closed at $193.97 per share— ...
+highlight: Friday (June 30
+
+source: zeebiz.com
+date: Jun 30, 2023
+title: What company has reached the market cap of 3 trillion?
+snippet: Apple is once again worth $3 trillion, the only company ever to reach the milestone, a media report said. Its shares rose 1 per cent on Friday to hit a record $191.34. With 15.7 billion shares outstanding, the stock price pushed Apple to its historic market value, CNN reported.
+highlight: None
+
+source: nbcnews.com
+date: Jun 30, 2023
+title: Is Apple the first US company to reach $3 trillion market cap?
+snippet: The news shows investors remain bullish on the stock and Apple's portfolio of products and services, despite the company's warning in May that its current quarter revenue is expected to fall about 3%.
+highlight: None
+
+source: fortune.com
+date: Jun 30, 2023
+title: What is the first $3 trillion dollar company?
+snippet: Apple just made history by becoming the first company with a $3 trillion market value—'and its lock on the consumer is only getting stronger' Apple CEO Tim Cook.
+highlight: None
+
+source: cityindex.com
+date: Aug 24, 2023
+title: A guide to trillion-dollar companies
+snippet: Apple did become the world's first $3 trillion company in June 2023 but hasn't retained that market capitalisation in the subsequent months.
+highlight: June 2023
+
+source: money.usnews.com
+date: Oct 24, 2023
+title: The 10 Most Valuable Companies in the World by Market ...
+snippet: (ticker: AAPL) was the first company to reach a market capitalization of $1 trillion in 2018. ... Overall, Amazon has become the largest online ...
+highlight: 2018
+
+question: When did Amazon become the first publicly traded company to exceed a market value of $3 trillion?
+answer: As of today November 14, 2023, the most up-to-date and relevant information regarding this query is as follows. Amazon's market capitalization has never exceeded $3 trillion.
